@@ -445,16 +445,6 @@
 			"revisionTime": "2016-10-07T00:41:22Z"
 		},
 		{
-			"path": "github.com/influxdb/influxdb/client",
-			"revision": "291aaeb9485b43b16875c238482b2f7d0a22a13b",
-			"revisionTime": "2015-09-16T14:41:53+02:00"
-		},
-		{
-			"path": "github.com/influxdb/influxdb/tsdb",
-			"revision": "291aaeb9485b43b16875c238482b2f7d0a22a13b",
-			"revisionTime": "2015-09-16T14:41:53+02:00"
-		},
-		{
 			"checksumSHA1": "0ZrwvB6KoGPj2PoDNSEJwxQ6Mog=",
 			"path": "github.com/jmespath/go-jmespath",
 			"revision": "bd40a432e4c76585ef6b72d3fd96fb9b6dc7b68d",
